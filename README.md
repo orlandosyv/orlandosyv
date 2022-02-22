@@ -1,9 +1,11 @@
 Hi there 👋
 
-🌱 I’m currently learning Advanced React
-👯 I’m looking to collaborate on social projects
-📫 How to reach me: sergioyv@gmail.com
- 
+- 🌱 I’m currently learning Advanced React
+
+- 👯 I’m looking to collaborate on social projects
+
+- 📫 How to reach me: sergioyv@gmail.com
+
 ⚡ Fun fact: I like to watch football and sign in Karaokes.
 
 <!--
