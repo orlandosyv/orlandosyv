@@ -5,7 +5,7 @@ Hi there 👋
 - 👯 I’m looking to collaborate on social projects
 
 - 📫 How to reach me: sergioyv@gmail.com
-- 
+
 - You can find my portfolio here -> https://troopl.com/orlandosyv
 
 ⚡ Fun fact: I like to watch football and sing in Karaokes.
