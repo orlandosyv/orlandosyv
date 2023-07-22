@@ -1,10 +1,10 @@
 Hi there 👋
 
-- 🌱 I’m currently learning Advanced React
-
 - 👯 I’m looking to collaborate on social projects
 
 - 📫 How to reach me: sergioyv@gmail.com
+
+- 🌱 I’m currently learning .Net 7
 
 - You can find my portfolio here -> https://troopl.com/orlandosyv
 
@@ -16,7 +16,7 @@ Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
