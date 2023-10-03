@@ -4,7 +4,7 @@ Hi there 👋
 
 - 📫 How to reach me: sergioyv@gmail.com
 
-- 🌱 I’m currently learning .Net 7
+- 🌱 I’m currently learning Azure and Containers (Docker)
 
 - You can find my portfolio here -> https://troopl.com/orlandosyv
 
